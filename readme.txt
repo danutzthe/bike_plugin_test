@@ -1,3 +1,7 @@
+---- Plugin info ----
+Pluginul adauga un nou camp pt imaginile incarcate.
+
+
 === Plugin Name ===
 Contributors: metricbuzz
 Donate link: http://www.metricbuzz.com/
